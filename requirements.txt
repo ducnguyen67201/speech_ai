@@ -1,0 +1,6 @@
+transformers
+ctranslate2
+torch
+torchvision
+torchaudio
+ffmpeg
